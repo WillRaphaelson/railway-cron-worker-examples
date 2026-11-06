@@ -1,0 +1,14 @@
+{
+  "name": "railway-cron-worker-examples",
+  "version": "1.0.0",
+  "description": "Two small Python scripts with optional Railway IaC tooling",
+  "scripts": {
+    "check:iac": "tsc --noEmit"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "railway": "^3.16.0",
+    "typescript": "^7.0.2"
+  },
+  "private": true
+}
